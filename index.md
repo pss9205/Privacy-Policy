@@ -1,7 +1,7 @@
 ---
-Title : Privacy Policy
-Description : List of Privacy Policy of Apps.
 layout: default
+title : Privacy Policy
+description : List of Privacy Policy of Apps.
 ---
 
 # Apps

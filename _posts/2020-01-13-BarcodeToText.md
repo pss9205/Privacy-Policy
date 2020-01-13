@@ -1,6 +1,6 @@
 ---
+layout: default
 title : Privacy Policy
-tags : BarcodeToText
 description: This is Privacy Policy page of BarcodeToText
 ---
 ---
