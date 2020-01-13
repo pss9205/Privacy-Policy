@@ -4,6 +4,7 @@
 #### 1. BarcodeToText
 ##### Privacy Policy
 - English
+
 ```
 1. Information to be collected and method of collection
 (1) Personal information items to be collected
@@ -23,7 +24,9 @@ The App can request below permissions.
 Camera : It is used only for scan image and recognize barcode. Scanned image will not be saved.
 Storage Access : It is used only for export the list of barcode to text file. 
 ```
+
 - Korean
+
 ```
 1. 수집하는 정보 및 수집방법
 (1) 수집하는 개인정보의 항목
